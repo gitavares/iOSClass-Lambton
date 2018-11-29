@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iOSDay15
+
+  Created by Giselle Tavares on 15/11/18.
+  Copyright © 2018 Giselle Tavares. All rights reserved.
+*/
+
+"STR_TITLE" = "Oi, como vai você?";
+"STR_HELLO" = "Teste";
